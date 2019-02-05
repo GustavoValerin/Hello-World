@@ -1,0 +1,27 @@
+[core]
+	
+	symlinks = false
+	
+	autocrlf = true
+	
+	fscache = true
+[color]
+	
+	diff = auto
+	
+	status = auto
+	
+	branch = auto
+	
+	interactive = true
+[help]
+	
+	format = html
+[rebase]
+	
+	autosquash = true
+
+[user]
+	name = GustavoValerin
+	email = gvalerin@gmail.com
+	username = GustavoValerin
